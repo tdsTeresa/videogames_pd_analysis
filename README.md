@@ -1,3 +1,4 @@
+<h1>Ventas de videojuegos, con Pandas y visualización<h1>
 <h2>⭐ Descripción general:</h2>
 <br>
 En esta actividad he realizado la preparación de datos y análisis básico de un dataset de videojuegos, encontrando información relevante sobre los géneros y las plataformas más vendidas, los títulos con más crecimiento en ciertos años, entre otros elementos adicionales.
